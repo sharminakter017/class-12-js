@@ -1,0 +1,30 @@
+.design{
+    background-color: aqua;
+    border-radius: 0px 50px 0px 50px;
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.231);
+    transition: .5s;
+    padding:20px 0px;
+   
+}
+.design:hover{
+    transform: translateY(2px);
+    background-color: blueviolet;
+    color: #fff;
+}
+h1{
+    color:blue;
+    text-align: center;
+   text-decoration: underline;
+   margin-top: 20px;
+}
+.box{
+    height: 80px;
+    width: 300px;
+    background-color: blue;
+    color:#fff;
+    font-size: 20px;
+    border-radius: 50px 0px 50px 0px;
+    text-align: center;
+}
+
+
